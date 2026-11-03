@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "9ede5a2458cd2df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a693ac78ab6e22",
+        "type": "tabs",
+        "dimension": 49.68017057569296,
+        "children": [
+          {
+            "id": "733d36a8ad5b5001",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Docs/Project_Setup.canvas",
+                "viewState": {
+                  "x": 2639.5789596457066,
+                  "y": -133.2412906763784,
+                  "zoom": -1.0105957613927468
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Project_Setup"
+            }
+          }
+        ]
+      },
+      {
+        "id": "af94741cfb392dff",
+        "type": "tabs",
+        "dimension": 50.31982942430704,
+        "children": [
+          {
+            "id": "ca305021da47633d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docs/Project_SetUp/프로젝트 기획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로젝트 기획"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee5241ad6b3d3e24",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb320b029b99df79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4016c9ef20e742f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b690417a87f06ec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "eac78ec60a936d8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f91fe41f01e45f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1226f5df5733fa5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea205fafbe80d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "229eaa81bc5e450e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "302a5e9ba5eeb468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "218e6eaede845dd8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "8bd17aa924eb5926",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ca305021da47633d",
+  "lastOpenFiles": [
+    "첨부파일/Pasted image 20261103181152.png",
+    "첨부파일/Pasted image 20261103181137.png",
+    "첨부파일",
+    "Docs/Project_Setup.canvas",
+    "Docs/Project_SetUp/프로젝트 기획.md",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103125933.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103102643.png",
+    "Docs/Project_SetUp/첨부파일",
+    "Docs/Pasted image 20261103102643.png",
+    "Docs/프로젝트 기획.md",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103125700.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103104258.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103104136.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103103721.png",
+    "Docs/Project_SetUp",
+    "Docs/새 폴더",
+    "Docs/개발_프로세스_도식화.canvas",
+    "Docs/Project_Planning_Diag.canvas",
+    "Docs/Pasted image 20261103125933.png",
+    "Docs/Pasted image 20261103125700.png"
+  ]
+}
