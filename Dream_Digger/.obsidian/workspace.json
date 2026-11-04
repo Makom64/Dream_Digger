@@ -17,15 +17,33 @@
                 "file": "Docs/Project_Setup.canvas",
                 "viewState": {
                   "x": 2639.5789596457066,
-                  "y": -133.2412906763784,
+                  "y": 2115.211804811555,
                   "zoom": -1.0105957613927468
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Project_Setup"
             }
+          },
+          {
+            "id": "3ad348ddef6affb6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Docs/Project_Planning_Diag.canvas",
+                "viewState": {
+                  "x": -102.79927597631786,
+                  "y": -365.6251759435488,
+                  "zoom": -1.101696941813829
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Project_Planning_Diag"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af94741cfb392dff",
@@ -108,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f91fe41f01e45f1f",
@@ -214,25 +231,24 @@
   },
   "active": "ca305021da47633d",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20261103181152.png",
-    "첨부파일/Pasted image 20261103181137.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103181137.png",
+    "Docs/Project_SetUp/프로젝트 기획.md",
+    "Docs/Project_Planning_Diag.canvas",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104093155.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104093136.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104092638.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104092605.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104091823.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261104091802.png",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103181152.png",
     "첨부파일",
     "Docs/Project_Setup.canvas",
-    "Docs/Project_SetUp/프로젝트 기획.md",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103125933.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103102643.png",
     "Docs/Project_SetUp/첨부파일",
-    "Docs/Pasted image 20261103102643.png",
     "Docs/프로젝트 기획.md",
-    "Docs/Project_SetUp/첨부파일/Pasted image 20261103125700.png",
-    "Docs/Project_SetUp/첨부파일/Pasted image 20261103104258.png",
-    "Docs/Project_SetUp/첨부파일/Pasted image 20261103104136.png",
-    "Docs/Project_SetUp/첨부파일/Pasted image 20261103103721.png",
     "Docs/Project_SetUp",
     "Docs/새 폴더",
-    "Docs/개발_프로세스_도식화.canvas",
-    "Docs/Project_Planning_Diag.canvas",
-    "Docs/Pasted image 20261103125933.png",
-    "Docs/Pasted image 20261103125700.png"
+    "Docs/개발_프로세스_도식화.canvas"
   ]
 }
