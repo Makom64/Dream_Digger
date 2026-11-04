@@ -16,7 +16,7 @@
                 "file": "Docs/Project_Setup.canvas",
                 "viewState": {
                   "x": 2639.5789596457066,
-                  "y": 241.50089190494407,
+                  "y": 803.6141657769274,
                   "zoom": -1.0105957613927468
                 }
               },
@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Project_SetUp/프로젝트 기획.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로젝트 기획"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -221,10 +221,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "733d36a8ad5b5001",
+  "active": "ca305021da47633d",
   "lastOpenFiles": [
-    "Docs/Project_SetUp.zip",
     "Docs/Project_Planning_Diag.canvas",
+    "Docs/Project_Setup.canvas",
+    "CLAUDE.md",
+    "Docs/Project_SetUp.zip",
     "Docs/Project_SetUp/프로젝트 기획.md",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103181137.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261104093155.png",
@@ -235,7 +237,6 @@
     "Docs/Project_SetUp/첨부파일/Pasted image 20261104091802.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103181152.png",
     "첨부파일",
-    "Docs/Project_Setup.canvas",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103125933.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103102643.png",
     "Docs/Project_SetUp/첨부파일",
