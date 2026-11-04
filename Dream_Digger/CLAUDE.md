@@ -32,3 +32,8 @@
 ---
 ## 필요시 로드 (해당 작업을 할 때만 적용)
 
+### Git Issue 작성 시
+
+- `Docs/Rules/IssueRule.md`
+- `Docs/Templetes/IssueTemplate.md`
+
