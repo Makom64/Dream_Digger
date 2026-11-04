@@ -6,7 +6,6 @@
       {
         "id": "a5a693ac78ab6e22",
         "type": "tabs",
-        "dimension": 49.68017057569296,
         "children": [
           {
             "id": "733d36a8ad5b5001",
@@ -17,7 +16,7 @@
                 "file": "Docs/Project_Setup.canvas",
                 "viewState": {
                   "x": 2639.5789596457066,
-                  "y": 2115.211804811555,
+                  "y": 241.50089190494407,
                   "zoom": -1.0105957613927468
                 }
               },
@@ -34,22 +33,14 @@
                 "file": "Docs/Project_Planning_Diag.canvas",
                 "viewState": {
                   "x": -102.79927597631786,
-                  "y": -365.6251759435488,
+                  "y": 831.8817242461784,
                   "zoom": -1.101696941813829
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Project_Planning_Diag"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "af94741cfb392dff",
-        "type": "tabs",
-        "dimension": 50.31982942430704,
-        "children": [
+          },
           {
             "id": "ca305021da47633d",
             "type": "leaf",
@@ -64,7 +55,8 @@
               "title": "프로젝트 기획"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,11 +221,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ca305021da47633d",
+  "active": "733d36a8ad5b5001",
   "lastOpenFiles": [
-    "Docs/Project_SetUp/첨부파일/Pasted image 20261103181137.png",
-    "Docs/Project_SetUp/프로젝트 기획.md",
+    "Docs/Project_SetUp.zip",
     "Docs/Project_Planning_Diag.canvas",
+    "Docs/Project_SetUp/프로젝트 기획.md",
+    "Docs/Project_SetUp/첨부파일/Pasted image 20261103181137.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261104093155.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261104093136.png",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261104092638.png",
