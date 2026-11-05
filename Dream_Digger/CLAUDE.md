@@ -26,9 +26,9 @@
 ---
 ## 상시 로드 (매 세션 적용)
 
-### 프로젝트 준비
-
-- `@Docs/Project_SetUp/프로젝트 기획`
+- @Docs/Project_SetUp/프로젝트 기획
+- @Docs/GroundRule
+- @Docs/Rules/CommitRule
 ---
 ## 필요시 로드 (해당 작업을 할 때만 적용)
 
@@ -37,3 +37,11 @@
 - `Docs/Rules/IssueRule.md`
 - `Docs/Templetes/IssueTemplate.md`
 
+### 브랜치 생성 시
+
+- `Docs/Rules/BranchRule`
+
+### PR 생성 시
+
+- `Docs/Templetes/PullRequestTemplate`
+- `Docs/Rules/PullRequestRule`
