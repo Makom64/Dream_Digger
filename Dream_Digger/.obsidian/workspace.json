@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Templetes/WorkLogTemplate.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkLogTemplate"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "3ad348ddef6affb6",
   "lastOpenFiles": [
+    "Docs/GroundRule.md",
+    "Docs/Templetes/WorkLogTemplate.md",
     "CLAUDE.md",
     "Docs/Rules/CommitRule.md",
     "Docs/Rules/PullRequestRule.md",
@@ -202,7 +204,6 @@
     "WorkLogs/261105_작업일지.md",
     "WorkLogs/261105_작업일지.md.tmp.8508.d2004b00f0c4",
     "WorkLogs",
-    "Docs/Templetes/WorkLogTemplate.md",
     "Docs/Templetes/TroubleShootingTemplate.md",
     ".claude/skills/git-issue",
     ".claude/skills",
@@ -210,7 +211,6 @@
     "Docs/Project_Planning_Diag.canvas",
     "Docs/Project_Setup.canvas",
     "Docs/Project_SetUp/프로젝트 기획.md",
-    "Docs/GroundRule.md",
     "CLAUDE.md.tmp.23024.ea64da2c5768",
     "Docs/Templetes/IssueTemplate.md.tmp.23024.f5c1bb9b7c7e",
     "Docs/Rules/IssueRule.md.tmp.23024.dad2cad4b22f",

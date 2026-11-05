@@ -26,9 +26,9 @@
 ---
 ## 상시 로드 (매 세션 적용)
 
-- `@Docs/Project_SetUp/프로젝트 기획`
-- `@Docs/GroundRule`
-- `@Docs/Rules/CommitRule`
+- @Docs/Project_SetUp/프로젝트 기획
+- @Docs/GroundRule
+- @Docs/Rules/CommitRule
 ---
 ## 필요시 로드 (해당 작업을 할 때만 적용)
 
