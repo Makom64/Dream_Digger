@@ -11,14 +11,17 @@
             "id": "3ad348ddef6affb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Docs/Rules/BranchRule.md",
-                "mode": "source",
-                "source": false
+                "file": "Docs/Project_Planning_Diag.canvas",
+                "viewState": {
+                  "x": 26.31516937803292,
+                  "y": 904.3413834680431,
+                  "zoom": -1.436543327242732
+                }
               },
-              "icon": "lucide-file",
-              "title": "BranchRule"
+              "icon": "lucide-layout-dashboard",
+              "title": "Project_Planning_Diag"
             }
           }
         ]
@@ -188,16 +191,18 @@
   },
   "active": "3ad348ddef6affb6",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    ".claude/skills/prompt-archive/SKILL.md",
+    ".claude/skills/prompt-archive",
+    "Docs/Rules/BranchRule.md",
     ".claude/skills/pullrequest/SKILL.md",
     ".claude/skills/pullrequest",
     "Docs/Rules/PullRequestRule.md",
     ".claude/skills/git-pr/SKILL.md",
     ".claude/skills/git-pr",
-    "CLAUDE.md",
     "Docs/WorkLogs/261105_작업일지.md",
     "Docs/WorkLogs",
     "Docs/Rules/CommitRule.md",
-    "Docs/Rules/BranchRule.md",
     "Docs/GroundRule.md",
     "Docs/Templetes/WorkLogTemplate.md",
     "Docs/Rules/IssueRule.md",
@@ -215,7 +220,6 @@
     "Docs/Project_Planning_Diag.canvas",
     "Docs/Project_Setup.canvas",
     "Docs/Project_SetUp/프로젝트 기획.md",
-    "CLAUDE.md.tmp.23024.ea64da2c5768",
     "Docs/개발_프로세스_도식화.canvas",
     "Docs/Project_SetUp/게임 기획.md",
     "Docs/Project_SetUp/첨부파일/Pasted image 20261103181137.png",
