@@ -242,6 +242,10 @@
   },
   "active": "a60eec220b145bb1",
   "lastOpenFiles": [
+    "Temp/UnityTempFile-6a170d4bec21596468b04031a7b4026b",
+    "Temp/UnityTempFile-43d70a762748c764a90076a9a2adeec6",
+    "Temp/UnityTempFile-3e40af1b091ec714699033720c6fc740",
+    "Temp/UnityTempFile-f504ac0ccf2f00545b2574c5d1b1907b",
     "Docs/Project_SetUp/프로젝트 기획.md",
     "Docs/Project_Planning/Strategies/플레이어 세부 구현 방안.md",
     "Docs/Project_Planning/Plans/플레이어 기획서.md",
@@ -253,9 +257,6 @@
     "Temp/UnityTempFile-9eed6f0d93fb0d24e82067959cc5dbd7",
     "Temp/Burst/burst-aotazynj63q.9c8",
     "Temp/Burst/burst-aot5i988du9.h1v",
-    "Temp/Burst/burst-aot62hdhrh5.d32",
-    "Temp/Burst/burst-aotykpnsei3.xc1",
-    "Temp/Burst/burst-aoth5y98gab.mza",
     "Library/PackageCache/com.unity.2d.tooling@04422e023209/Samples~/Sample Sprite Atlas Report/SampleAtlas/Triangle.png",
     "Library/PackageCache/com.unity.2d.tooling@04422e023209/Samples~/Sample Sprite Data source And Report/README.md",
     "Library/PackageCache/com.unity.2d.tooling@04422e023209/Samples~/Sample Sprite Atlas Report/README.md",
@@ -287,7 +288,6 @@
     "Library/PackageCache/com.unity.2d.tilemap@f011712243ad/LICENSE.md",
     "Library/PackageCache/com.unity.2d.tilemap@f011712243ad/CHANGELOG.md",
     "Library/PackageCache/com.unity.2d.psdimporter@f207d91d598d/Samples~/PSDImporterSamples/PSDImporterCustomPacker/README.md",
-    "Library/PackageCache/com.unity.2d.psdimporter@f207d91d598d/Samples~/PSDImporterSamples/README.md",
     "Docs/Project_Planning_Diag.canvas",
     "Docs/Project_Setup.canvas",
     "Docs/개발_프로세스_도식화.canvas"
